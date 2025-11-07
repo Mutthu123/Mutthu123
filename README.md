@@ -1,9 +1,5 @@
 # Project Title
 
-Project Title
-Project Build Status License Version
-
-Short project tagline: one sentence that explains the main value.
 
 Table of contents
 Demo
