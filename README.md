@@ -1,5 +1,4 @@
 # Project Title
-
 Table of contents
 Demo
 Features
